@@ -39,14 +39,6 @@
     color: white !important;
 }
 
-.bckg{
-    background-color: #870058;
-}
-
-.dif-color{
-    color: #870058;
-}
-
 .test-img-one{
     background-image: url(../Images/amy-hirschi-b3AYk8HKCl0-unsplash.jpg);
 }
@@ -69,14 +61,6 @@
 
 .test-img-four{
     background-image: url(../Images/ali-morshedlou-WMD64tMfc4k-unsplash.jpg);
-}
-
-.testi{
-    color: #870058;
-}
-
-.para{
-    box-shadow: 0px 0px 4px 5px rgba(88, 188, 221, 0.8)
 }
 
 .bot{
@@ -140,9 +124,6 @@
     background-image: url(../Images/jon-tyson-jgaxGjXKlpw-unsplash.jpg);
 }
 
-.change{
-    color: #870058;
-}
 
 @media screen and (max-width: 760px){
     .pr{
@@ -154,7 +135,6 @@
     }
 
     .mean{
-        flex-direction: column !important;
         justify-content: center !important;
     }
 
@@ -166,18 +146,6 @@
 
     .about{
         box-shadow: none !important;
-    }
-
-    .flexx{
-        flex-direction: column;
-    }
-
-    .flexx-2{
-        margin-top: 3rem !important;
-    }
-
-    .flow{
-        flex-direction: column;
     }
 
     .space{
