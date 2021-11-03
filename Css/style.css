@@ -1,0 +1,237 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.first-text{
+    color: #870058;
+}
+
+.clean-one{
+    background-image: url(../Images/Rectangle\ 236.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.first-pic{
+    background-image: url(../Images/cdc-jjrXvzbqC5E-unsplash\ \(1\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.second-pic{
+    background-image: url(../Images/benjamin-child-0sT9YhNgSEs-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.third-pic{
+    background-image: url(../Images/diego-san-2hRHb1OGRYs-unsplash\ \(1\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pictures{
+    height: 200px !important;
+}
+
+.write{
+    color: white !important;
+}
+
+.bckg{
+    background-color: #870058;
+}
+
+.dif-color{
+    color: #870058;
+}
+
+.test-img-one{
+    background-image: url(../Images/amy-hirschi-b3AYk8HKCl0-unsplash.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60px !important;
+    width: 60px !important;
+}
+
+.test-img-two{
+    background-image: url(../Images/brooke-cagle-NoRsyXmHGpI-unsplash.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60px !important;
+    width: 60px !important;
+}
+
+.test-img-three{
+    background-image: url(../Images/benjamin-child-0sT9YhNgSEs-unsplash.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60px !important;
+    width: 60px !important;
+}
+
+.test-img-four{
+    background-image: url(../Images/ali-morshedlou-WMD64tMfc4k-unsplash.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60px !important;
+    width: 60px !important;
+}
+
+.testi{
+    color: #870058;
+}
+
+.para{
+    box-shadow: 0px 0px 4px 5px rgba(88, 188, 221, 0.8)
+}
+
+.bot{
+    background-color: #870058;
+}
+
+.about{
+    box-shadow: 0px 0px 4px 5px rgba(88, 188, 221, 0.8)
+}
+
+.vibe-one{
+    background-image: url(../Images/towfiqu-barbhuiya--9gPKrsbGmc-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 260px !important;
+}
+
+.vibe-two{
+    background-image: url(../Images/artem-beliaikin-42OiN2WhCPs-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 260px !important;
+}
+
+.vibe-three{
+    background-image: url(../Images/nick-hillier-yD5rv8_WzxA-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 260px !important;
+}
+
+.ceo{
+    background-image: url(../Images/eye-for-ebony-aZzXKGcyWqk-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 220px !important;
+    width: 220px;
+}
+
+.coo{
+    background-image: url(../Images/jurica-koletic-7YVZYZeITc8-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 220px !important;
+    width: 220px;
+}
+
+.cfo{
+    background-image: url(../Images/christian-lunde-v-dd__G7g7k-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 220px !important;
+    width: 220px;
+}
+
+.s-m{
+    background-image: url(../Images/jeffery-erhunse-BQMZ5ligqps-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 220px !important;
+    width: 220px;
+}
+
+.glow{
+    color: skyblue;
+}
+
+.pic-one{
+    background-image: url(../Images/towfiqu-barbhuiya-ho-p7qLBewk-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pic-two{
+    background-image: url(../Images/dan-gold-aJN-jjFLyCU-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pic-three{
+    background-image: url(../Images/jon-tyson-jgaxGjXKlpw-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.change{
+    color: #870058;
+}
+
+@media screen and (max-width: 760px){
+    .pr{
+        flex-direction: column !important;
+    }
+
+    .noni{
+        margin-top: 3rem !important;
+    }
+
+    .mean{
+        flex-direction: column !important;
+        justify-content: center !important;
+    }
+
+    .mean-2{
+        margin-right: auto !important;
+        margin-left: auto !important;
+        margin-bottom: 1rem;
+    }
+
+    .about{
+        box-shadow: none !important;
+    }
+
+    .flexx{
+        flex-direction: column;
+    }
+
+    .flexx-2{
+        margin-top: 3rem !important;
+    }
+
+    .flow{
+        flex-direction: column;
+    }
+
+    .space{
+        margin-top: 2rem;
+    }
+
+}
