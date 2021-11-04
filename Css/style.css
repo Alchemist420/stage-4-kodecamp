@@ -44,10 +44,6 @@
     width: 220px;
 }
 
-.s-m{
-    background-image: url(../Images/jeffery-erhunse-BQMZ5ligqps-unsplash.jpg);
-}
-
 .glow{
     color: skyblue;
 }
@@ -75,6 +71,4 @@
         box-shadow: none !important;
     }
 
-    .space{
-        margin-top: 2rem;
-    }
+}
